@@ -1,7 +1,14 @@
-# D++ Windows Bot Template
+# CppBen (D++ Windows music bot example)
 
-A [D++](https://github.com/brainboxdotcc/DPP) Discord Bot template for Visual Studio 2022 (x64 and x86, release and debug). This repository is the result of [this tutorial](https://dpp.dev/build-a-discord-bot-windows-visual-studio.html) with additional enhancements for automatic selection of the correct architecture, and copying of the dll files into the correct folders on successful build.
+Dependency:
 
-This template comes packaged with the latest master branch of D++ from the CI. To use this project simply put your code into the `MyBot.cpp` and press F7. You can do much more with this template.
+  OS env var: DPP_TOKEN
+  
+  ffmpeg in PATH
+  
+  youtube-dl or yt-dlp(renamed to youtube-dl) in PATH
+  
 
-For support and assistance please join [the official support discord](https://discord.gg/dpp).
+A [D++](https://github.com/brainboxdotcc/DPP) Discord Bot template for Visual Studio 2022 (x64 and x86, release and debug). 
+
+ [The official support discord](https://discord.gg/dpp).
